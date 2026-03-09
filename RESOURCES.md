@@ -4,3 +4,10 @@
 
 ### GitHub repo:
 - [Main branch](https://github.com/EfficiencySimplicity/Venture)
+
+### Emojis & Unicode:
+- [EmojiDB](https://emojidb.org/)
+- [Emojipedia](https://emojipedia.org/)
+- [Corner symbols](https://www.copyandpastesymbols.net/corner-symbols.html)
+
+### Defaults
