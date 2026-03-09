@@ -28,3 +28,7 @@ and the help feature could work like:
 
 - And your cabin has the bed, a window, a dresser with drawers and a lamp (that you break! (maybe clean up later, find note inside???)), and a map on the wall
 - So the map should have a house, the cliffs, a tiny island, some hills, a cave, a forest, etc. And the cliffs would have ?s on them to show you should get there...
+
+# Technicalities
+
+As for the Git, I'll push to my local repo, and once any feature is not half-done, I'll push. Once the game is working, I'll make separate branches for separate features (or maybe I should be doing that now?...)
