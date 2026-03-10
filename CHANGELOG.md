@@ -11,3 +11,14 @@
 ### Added
 
 - Added Basics of location system
+
+## 0.0.3 - 2026-03-10
+
+### Added
+
+- Added House
+- Added SCRIPT.md
+
+### Changed
+
+- Revamped location system
