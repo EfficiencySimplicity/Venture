@@ -28,7 +28,7 @@
 > get up
 
 "You get out of bed, accidentally knocking a lamp to the floor where it shatters"
-"You are in a log cabin. In the cabin is a bed, at the foot of which is a dresser, nearby a broken lamp that fell off of it. The cabin has not much else in the way of furniture, but there is a door and a window illuminating your pillow with the morning light"
+"You are in a log cabin. In the cabin is a bed, at the foot of which is a dresser, at the foot of which is a broken lamp. The cabin has not much else in the way of furniture, but there is a door and a window illuminating your pillow with the morning light"
 
 > go to door / leave / exit / go outside
 
