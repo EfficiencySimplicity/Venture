@@ -22,3 +22,13 @@
 ### Changed
 
 - Revamped location system
+
+## 0.0.4 - 2026-03-12
+
+### Added
+
+- Added GameState and GameStateName
+
+### Changed
+
+- Got logging system improved
