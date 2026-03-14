@@ -3,11 +3,32 @@ use crate::game_state::*;
 pub struct House {
     // The fields here are anything within the house which has a state
     lamp: Lamp,
+    bed: Bed,
+}
+
+pub struct Bed {
+    
+}
+
+impl Bed {
+    pub fn new() -> Self {
+        Bed { }
+    }
+}
+
+impl Observable for Bed {
+    fn summarize(&self, game_state: &GameState) -> String {
+        let mut observation = String::new();
+        observation.push_str("You are in bed in a log cabin.\n");
+        observation.push_str("An open window on the far wall lets through the blinding morning light.\n");
+        observation.push_str("You can barely see anything.");
+        observation
+    }
 }
 
 impl House {
     pub fn new() -> Self {
-        House { lamp: Lamp::Intact }
+        House { lamp: Lamp::Intact, bed:Bed::new()}
     }
 }
 

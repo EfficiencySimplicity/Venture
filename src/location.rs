@@ -1,0 +1,9 @@
+pub trait Location {
+    fn summarize(&self, parent: &impl Location, response: &mut String) -> String;
+    // fn parse(&self);
+    // fn help(&self);
+
+    // current_location, how to manage?...
+    // It prob should be a string...
+    // and something to pass on to parent?...
+}

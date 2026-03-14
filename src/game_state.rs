@@ -1,6 +1,8 @@
 use crate::house::*;
 
 // https://doc.rust-lang.org/book/ch10-02-traits.html
+// Possibly pass observation string to this thing. Would be
+// helpful for creating long commands and clean code
 pub trait Observable {
     fn summarize(&self, game_state: &GameState) -> String;
 }
